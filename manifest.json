@@ -22,6 +22,6 @@
   "permissions": [
     "https://hit.it.ntnu.no/",
     "tabs",
-    "https://ajax.googleapis.com/"
+    "storage"
   ]
 }

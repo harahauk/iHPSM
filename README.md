@@ -17,4 +17,4 @@ appreciate the heads up.
 ##TODO
 - A control panel  
 - Fix changing between helpdesks  
-
+- Fix Abuse-closing with one-click
