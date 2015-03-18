@@ -14,7 +14,15 @@ appreciate the heads up.
 
 ## Implemented
 - Auto-refresh
-##TODO
-- A control panel  
+- A control panel
+## TODO
+- Closure code
+- Refresh timer
+- Icons
+- A nicer control panel  
 - Fix changing between helpdesks  
 - Fix Abuse-closing with one-click
+- Set default parameters on dispatching
+- Set a standard solution
+- Set signature
+- hide viewselector

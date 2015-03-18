@@ -1,6 +1,27 @@
+/* http://paletton.com is great for picking colors */
 .sidebar-middle-container {
-    background-color: #000000;
+    background-color: #990000;
 }
-#thread-10-list {
-    background-color: #A52A2A;
-} 
+/*
+.dm-list {
+    background-color: #DA8035;
+}
+*/
+div#cwc_header {
+    background-color: #990000;
+}
+body {
+    color: #FFFFFF;
+    background-color: #990000;
+    white-space: nowrap;
+}
+h2 {
+    text-decoration: underline;
+}
+/*
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+*/
+
