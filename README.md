@@ -17,10 +17,10 @@ If you see me doing this I appreciate the heads up.
 Whole project here https://bitbucket.org/Dentsor/orakel-hpsm-script/  
 - Images generated using cooltext.com
 
-## Implemented
+### Implemented
 - Auto-refresh
-- A control panel
-## TODO
+- A control panel (still need alot of work)  
+### TODO
 - Auto Closure code
 - Refresh timer
 - A nicer control panel  
