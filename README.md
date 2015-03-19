@@ -12,7 +12,9 @@ Fair warning 2: I have never worked with browser-extensions before, so I expect
 to do things in horrible and strange ways at first. If you see me doing this I
 appreciate the heads up.
 
-Contains code from https://bitbucket.org/Dentsor/orakel-hpsm-script/  
+### Copyright stuff
+- Contains code from https://bitbucket.org/Dentsor/orakel-hpsm-script/  
+- Images generated using cooltext.com
 
 ## Implemented
 - Auto-refresh
